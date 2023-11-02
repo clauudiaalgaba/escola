@@ -1,4 +1,5 @@
-CAMBIAR SQL A PDO COMO EN LOGIN ACTION
+MODIFICACIONES
 
 revisar todas las VIEWS para que si la cookie idioma esta en catalan o castellano
 revisar todos los css para poner oscuro o claro y lo mismo, revisar todas las views y poner oscuro o claro como en desktop
+
